@@ -68,3 +68,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+
+gem 'line-bot-api' # LINE Messaging API を扱うための Gem
+gem 'httparty'     # Qiita API 用の HTTP クライアント
